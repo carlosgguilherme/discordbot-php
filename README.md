@@ -1,1 +1,2 @@
-# discordbot-php
+# COMANDO DO BOT
+//
